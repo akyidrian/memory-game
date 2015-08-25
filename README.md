@@ -1,7 +1,7 @@
 Memory Game
 ===========
 
-This is a two players flip card styled Memory Game implemented in C with OpenGL/GLUT.
+This is a two player flip card styled Memory Game implemented in C with OpenGL/GLUT.
 
 To play, run:
 -------------
