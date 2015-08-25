@@ -5,8 +5,8 @@ This is a two players flip card styled Memory Game implemented in C with OpenGL/
 
 To play, run:
 -------------
-'''
-sudo apt-get install freeglut3 freeglut3-dev
-make
-./memgame.exe
-'''
+```
+ sudo apt-get install freeglut3 freeglut3-dev
+ make
+ ./memgame.exe
+```
